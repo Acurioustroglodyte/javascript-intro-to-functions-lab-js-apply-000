@@ -1,6 +1,6 @@
 function shout(string) {
   // Using built-in method
-  return string.uppercase();
+  return string.upperCase();
 
   /* Using a C-like ascii array, as if 'string' was not a type
   let strArray = [];
