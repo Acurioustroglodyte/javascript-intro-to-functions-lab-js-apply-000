@@ -1,5 +1,5 @@
 function shout(string) {
-  // Using built-in method
+  // Using a built-in method
   return string.toUpperCase();
 
   /* Using a C-like ascii array, as if 'string' was not a type
@@ -17,3 +17,5 @@ function shout(string) {
   return upString;
   */
 }
+
+function
